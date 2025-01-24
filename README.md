@@ -55,7 +55,9 @@ The following models were trained using the dataset:
 ## Conclusion
 The project demonstrates the process of preparing financial data, analyzing patterns, and training machine learning models to predict stock prices. The models were evaluated, and it was observed that Linear Regression performed the best overall. The project also emphasizes the importance of assessing overfitting and testing models on new datasets.
 
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/machine-learning-stock-prediction.git
+## Future Work
+-Experiment with other machine learning algorithms (e.g., LSTM, ARIMA) for better stock prediction.
+-Explore feature engineering to improve model performance.
+## Acknowledgments
+Dataset: Kaggle Apple Stock Market Historical Data (1980-2024).
+Libraries: scikit-learn, pandas, matplotlib, seaborn, numpy
