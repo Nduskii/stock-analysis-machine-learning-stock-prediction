@@ -59,5 +59,5 @@ The project demonstrates the process of preparing financial data, analyzing patt
 -Experiment with other machine learning algorithms (e.g., LSTM, ARIMA) for better stock prediction.
 -Explore feature engineering to improve model performance.
 ## Acknowledgments
-Dataset: Kaggle Apple Stock Market Historical Data (1980-2024).
+Datasets: Kaggle Apple Stock Market Historical Data (1980-2024) and Kaggle Tesla Stock Price With Indicators (10 Years)
 Libraries: scikit-learn, pandas, matplotlib, seaborn, numpy
